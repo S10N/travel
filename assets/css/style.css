@@ -1,0 +1,11 @@
+/*navbar styling*/
+
+.bg-color {
+
+    background-color: #af0505 !important;
+}
+
+.nav-link{
+    color: white;
+    font-size: 30px;
+}
